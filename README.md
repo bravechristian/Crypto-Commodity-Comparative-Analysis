@@ -13,6 +13,6 @@ Crypto Trading Dataset: Contains historical data on cryptocurrency trading over 
 Commodity Trading Dataset: Includes historical data on commodity trading, focusing on gold and Brent crude oil, also spanning 12 years, the dataset is a "commodities.csv" file. <br/><br/>
 
 ### Tools
--Excel used for data cleaning
--Microsoft SQL Studio (SQL) used for the data analysis
--Power BI for data visualization
+- Excel used for data cleaning
+- Microsoft SQL Studio (SQL) used for the data analysis
+- Power BI for data visualization
