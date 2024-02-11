@@ -29,4 +29,8 @@ Identify missing values in each dataset by visually inspecting the cells and usi
 Filtered out irrelevant and incomplete data points by using Excel's built-in filtering capabilities. Select the dataset range, go to the "Data" tab, and click on "Filter" to apply filters to individual columns.
 
 ### Exploratory Data Analysis (EDA)
+- Overview:
+I started by gaining a general understanding of the datasets, including the variables, data types, and overall structure, Identifying the key variables in each dataset for my analysis, such as price data, trading volumes, or other relevant indicators.
+- Descriptive Statistics:
+Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data.
 
