@@ -28,3 +28,5 @@ Identify missing values in each dataset by visually inspecting the cells and usi
 #### 3. Data Filtering:
 Filtered out irrelevant and incomplete data points by using Excel's built-in filtering capabilities. Select the dataset range, go to the "Data" tab, and click on "Filter" to apply filters to individual columns.
 
+### Exploratory Data Analysis (EDA)
+
