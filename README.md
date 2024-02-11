@@ -14,5 +14,5 @@ Commodity Trading Dataset: Includes historical data on commodity trading, focusi
 
 ### Tools
 - Excel used for data cleaning
-- Microsoft SQL Studio (SQL) used for the data analysis
-- Power BI for data visualization
+- Microsoft SQL Studio (SQL) used for the data analysis [Download here] (https://www.bing.com/search?q=sql+server+management+studio+download&filters=dtbk:%22MCFjZ192NV9kb3dubG9hZCFjZ192NV9kb3dubG9hZCExMGFjNzM3YS1hMGQ2LTNhYmQtZDJlOC02Yzg4OTcxMzBhOTM%3d%22+sid:%2210ac737a-a0d6-3abd-d2e8-6c8897130a93%22&FORM=DEPNAV)
+- Power BI for data visualization [Download here](https://www.bing.com/ck/a?!&&p=5d6550d22355fe53JmltdHM9MTcwNzYwOTYwMCZpZ3VpZD0zZWI2MzJiYS0wYmI2LTY2NzUtMDAxNi0yMDU0MGFhYjY3MGMmaW5zaWQ9NTQ5NQ&ptn=3&ver=2&hsh=3&fclid=3eb632ba-0bb6-6675-0016-20540aab670c&psq=power+bi+desktop+download&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9kb3dubG9hZC9kZXRhaWxzLmFzcHg_aWQ9NTg0OTQ_b2NpZD1PUlNFQVJDSF9CaW5n&ntb=1)
