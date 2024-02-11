@@ -34,6 +34,6 @@ I started by gaining a general understanding of the datasets, including the vari
 #### Descriptive Statistics:
 Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data.
 
-- 1. Compared the percentage change of commodities with respect to various crypto-coins
+- Compared the percentage change of commodities with respect to various crypto-coins
 - 
 
