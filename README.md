@@ -18,10 +18,13 @@ Commodity Trading Dataset: Includes historical data on commodity trading, focusi
 - Power BI for data visualization [Download here](https://www.bing.com/ck/a?!&&p=5d6550d22355fe53JmltdHM9MTcwNzYwOTYwMCZpZ3VpZD0zZWI2MzJiYS0wYmI2LTY2NzUtMDAxNi0yMDU0MGFhYjY3MGMmaW5zaWQ9NTQ5NQ&ptn=3&ver=2&hsh=3&fclid=3eb632ba-0bb6-6675-0016-20540aab670c&psq=power+bi+desktop+download&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9kb3dubG9hZC9kZXRhaWxzLmFzcHg_aWQ9NTg0OTQ_b2NpZD1PUlNFQVJDSF9CaW5n&ntb=1) <br/><br/>
 
 ### Data Cleaning and Preparation
+#### Importing Data into Excel
 I opened Excel and imported the raw data from the CSV files (cryptoTrading.csv and commodities.csv) using the "Data" tab and selecting "From Text/CSV".
 I followed the prompts to select the appropriate delimiter (e.g., comma) and import the data into separate worksheets.
 #### Data Inspection:
 I reviewed the structure and content of each dataset by navigating through the worksheets and checking for any obvious inconsistencies, missing values, or formatting issues in the data.
-#### Handling Missing Values:
+#### 2. Handling Missing Values:
 Identify missing values in each dataset by visually inspecting the cells and using Excel functions like COUNTBLANK() or IF(ISBLANK()). I identified the number of blanks, missing, and null values and deleted them from the dataset.
+#### 3. Data Filtering:
+Filtered out irrelevant and incomplete data points by using Excel's built-in filtering capabilities. Select the dataset range, go to the "Data" tab, and click on "Filter" to apply filters to individual columns.
 
