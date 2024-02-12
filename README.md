@@ -111,8 +111,8 @@ The data analysis provided valuable insights into the stability and volatility o
 
 ### Recommendations
 - Monitoring market trends and developments in cryptocurrencies and commodities markets.
-- Consider incorporating both asset classes into investment portfolios for diversification and risk management.
-- Conduct further research and analysis to explore additional factors influencing asset prices and market dynamics.
+- Consider incorporating both asset classes(Commodities & Crypto-currencies) into investment portfolios for diversification and risk management.
+- Further research and analysis are to be conducted to explore factors influencing asset prices and market dynamics.
 
 
 
