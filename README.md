@@ -32,7 +32,7 @@ Filtered out irrelevant and incomplete data points by using Excel's built-in fil
 #### Overview:
 I started by gaining a general understanding of the datasets, including the variables, data types, and overall structure, Identifying the key variables in each dataset for my analysis, such as price data, trading volumes, or other relevant indicators.
 #### Descriptive Statistics:
-Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data.
+Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data. Finally explored the data to answer the following key questions
 
 - Compared the percentage change of commodities with respect to various crypto-coins
 - 
