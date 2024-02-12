@@ -1,5 +1,21 @@
 # Crypto-Commodity Comparative Analysis: Unveiling Market Dynamics
 
+<br/><br/>
+## Table of Content
+- [Overview](#overview)
+- [Project Goals](#project-goals)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Analysis Methods](#analysis-methods)
+- [Result and Findings](#result-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
+  
+<br/><br/>
 ### Overview
 This project aims to compare the stability and volatility of cryptocurrencies to commodities, particularly focusing on gold and Brent crude. It utilizes two different datasets covering 12 years: one from crypto trading and the other from commodity trading. <br/><br/>
 
@@ -103,7 +119,7 @@ FROM
 ```
 <br/><br/>
 
-### Result/Findings
+### Result and Findings
 The data analysis provided valuable insights into the stability and volatility of cryptocurrencies and commodities markets. Summarised as follows;
 - The crypto market is very volatile and thus can quickly change over a very short time
 - The commodities market is less volatile and therefore, could serve as a potential store of wealth
