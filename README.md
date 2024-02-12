@@ -34,7 +34,40 @@ I started by gaining a general understanding of the datasets, including the vari
 #### Descriptive Statistics:
 Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data. Finally, I explored the data to answer the following key questions
 
-- Percentage change of commodities with-respect-to various crypto-currencies within a 5-year-period
+- Percentage change of commodities with-respect-to various crypto-currencies within a 5-year timeframe
 - The commodities in this EDA included Brent crude, gasoline, gold, and natural gas and they were compared with Binance, Bitcoin, USDT, and Ethereum
-- Finally, gold was compared with bitcoin to assess: stability and volatility, performance, and correlation
+- Finally, gold was compared with bitcoin to assess: stability and volatility, performance, and correlation.  <br/><br/>
+
+
+
+### Analysis Methods
+Utilizes statistical measures to compare the stability of cryptocurrencies and commodities, with a focus on gold and Brent crude oil.
+Calculates and compares volatility metrics for the crypto market and commodities over a 5-year timeframe.
+
+```SQL
+WITH gold_btc AS (
+
+SELECT
+	c.Date AS date
+	,ROUND(AVG(GOLD),2) AS gold_price
+	,ROUND(AVG(Adj_Close_BTC),2) AS btc_price
+FROM crypto c
+JOIN  commodities cd
+ON c.Date = cd.Date GROUP BY c.Date
+
+)
+SELECT 
+	YEAR(date) AS year
+	,ROUND(AVG(gold_price),2) AS avg_gold_price
+	,ROUND(MAX(gold_price),2) AS gold_max
+	,ROUND(MIN(gold_price),2) AS gold_min
+	,ROUND(((MAX(gold_price)  -  MIN(gold_price)) / MAX(gold_price)) * 100,2) AS percent_change_gold
+	,ROUND(AVG(btc_price),2) AS avg_btc_price
+	,ROUND(MAX(btc_price),2) AS btc_max
+	,ROUND(MIN(btc_price),2) AS btc_min
+	,ROUND(((MAX(btc_price)  -  MIN(btc_price)) / MAX(btc_price)) * 100,2) AS percent_change_btc
+FROM gold_btc
+GROUP BY YEAR(date) ORDER BY 1;
+
+```
 
