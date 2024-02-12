@@ -69,5 +69,44 @@ SELECT
 FROM gold_btc
 GROUP BY YEAR(date) ORDER BY 1;
 
+
+SELECT
+	c.Date AS date
+	,ROUND(AVG(GOLD),2) AS gold_price
+	,ROUND(AVG(Adj_Close_BTC),2) AS btc_price
+FROM crypto c
+JOIN  commodities cd
+ON c.Date = cd.Date GROUP BY c.Date
+
+)
+SELECT 
+	YEAR(date) AS year
+	,ROUND(AVG(gold_price),2) AS avg_gold_price
+	,ROUND(((MAX(gold_price)  -  MIN(gold_price)) / MAX(gold_price)) * 100,2) AS percent_change_gold
+	,ROUND(AVG(btc_price),2) AS avg_btc_price
+	,ROUND(((MAX(btc_price)  -  MIN(btc_price)) / MAX(btc_price)) * 100,2) AS percent_change_btc
+FROM gold_btc
+GROUP BY YEAR(date) ORDER BY 1;
+
+
+
+SELECT
+    Adj_Close_BTC,
+    STDDEV(Adj_Close_BTC)) AS btc_standard_deviation
+FROM
+     crypto c
+
+
+
 ```
+<br/><br/>
+
+### Result/Findings
+
+
+
+
+
+
+
 
