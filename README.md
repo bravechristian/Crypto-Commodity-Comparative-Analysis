@@ -113,7 +113,10 @@ The data analysis provided valuable insights into the stability and volatility o
 - Monitoring market trends and developments in cryptocurrencies and commodities markets.
 - Consider incorporating both asset classes(Commodities & Crypto-currencies) into investment portfolios for diversification and risk management.
 - Further research and analysis are to be conducted to explore factors influencing asset prices and market dynamics.
+<br/><br/>
 
+### Limitations
+I had to remove all zero and null values from my datasets because they would have imparted the accuracy of my analysis and conclusions. Even then the result displayed a positive correlation between commodities and crypto-currencies.
 
 
 
