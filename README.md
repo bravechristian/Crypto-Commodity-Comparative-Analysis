@@ -120,9 +120,9 @@ I had to remove all zero and null values from my datasets because they would hav
 <br/><br/>
 
 ### References
-1. https://dev.mysql.com/doc/
-2. https://www.w3schools.com/sql/sql_quickref.asp
-3. https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16
+1. [MYSQL Documentation](https://dev.mysql.com/doc/)
+2. [W3 Schools](https://www.w3schools.com/sql/sql_quickref.asp)
+3. [Microsoft T-SQL](https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16)
 
 
 
