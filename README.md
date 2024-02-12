@@ -32,8 +32,9 @@ Filtered out irrelevant and incomplete data points by using Excel's built-in fil
 #### Overview:
 I started by gaining a general understanding of the datasets, including the variables, data types, and overall structure, Identifying the key variables in each dataset for my analysis, such as price data, trading volumes, or other relevant indicators.
 #### Descriptive Statistics:
-Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data. Finally explored the data to answer the following key questions
+Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data. Finally, I explored the data to answer the following key questions
 
-- Compared the percentage change of commodities with respect to various crypto-coins
-- 
+- Percentage change of commodities with-respect-to various crypto-currencies within a 5-year-period
+- The commodities in this EDA included Brent crude, gasoline, gold, and natural gas and they were compared with Binance, Bitcoin, USDT, and Ethereum
+- Finally, gold was compared with bitcoin to assess: stability and volatility, performance, and correlation
 
