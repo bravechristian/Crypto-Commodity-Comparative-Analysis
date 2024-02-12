@@ -35,7 +35,9 @@ I started by gaining a general understanding of the datasets, including the vari
 Calculated summary statistics for key variables, such as mean, median, standard deviation, minimum, maximum, and quartiles, to understand the central tendency and variability of the data. Finally, I explored the data to answer the following key questions
 
 - Percentage change of commodities with-respect-to various crypto-currencies within a 5-year timeframe
-- The commodities in this EDA included Brent crude, gasoline, gold, and natural gas and they were compared with Binance, Bitcoin, USDT, and Ethereum
+- Calculated descriptive statistics and visualized distributions of cryptocurrency and commodity prices.
+- Visualised time series analysis to identify trends and patterns in price movements.
+- Investigated volatility measures to assess the stability of cryptocurrencies compared to commodities.
 - Finally, gold was compared with bitcoin to assess: stability and volatility, performance, and correlation.  <br/><br/>
 
 
@@ -102,6 +104,15 @@ FROM
 <br/><br/>
 
 ### Result/Findings
+The data analysis provided valuable insights into the stability and volatility of cryptocurrencies and commodities markets. Summarised as follows;
+- The crypto market is very volatile and thus can quickly change over a very short time
+- The commodities market is less volatile and therefore, could serve as a potential store of wealth
+<br/><br/>
+
+### Recommendations
+- Monitoring market trends and developments in cryptocurrencies and commodities markets.
+- Consider incorporating both asset classes into investment portfolios for diversification and risk management.
+- Conduct further research and analysis to explore additional factors influencing asset prices and market dynamics.
 
 
 
