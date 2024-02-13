@@ -128,9 +128,18 @@ The data analysis provided valuable insights into the stability and volatility o
 <br/><br/>
 
 ![Gold   Bitcoin](https://github.com/bravechristian/Finance-Project/assets/113802347/018ea694-9d7e-427d-8b3a-59b327dd449e)
+<br/><br/>
 
+
+![Commodities and Crypto](https://github.com/bravechristian/Finance-Project/assets/113802347/1140db22-e3d3-43c6-807c-cc98c39bbab7)
 
 <br/><br/>
+
+
+![Treemap for Crypto](https://github.com/bravechristian/Finance-Project/assets/113802347/ef8bf0c5-d369-44a9-92cf-1e58aa45ee99)
+
+<br/><br/>
+
 ### Recommendations
 - Monitoring market trends and developments in cryptocurrencies and commodities markets.
 - Consider incorporating both asset classes(Commodities & Crypto-currencies) into investment portfolios for diversification and risk management.
