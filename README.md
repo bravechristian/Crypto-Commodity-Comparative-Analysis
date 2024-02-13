@@ -10,6 +10,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Analysis Methods](#analysis-methods)
 - [Result and Findings](#result-and-findings)
+- [Visuals](#visuals)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
