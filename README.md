@@ -122,6 +122,15 @@ The data analysis provided valuable insights into the stability and volatility o
 - The commodities market is less volatile and therefore, could serve as a potential store of wealth
 <br/><br/>
 
+### Visuals
+
+![Gold vs Bitcoin](https://github.com/bravechristian/Finance-Project/assets/113802347/8859d3cc-3ca0-437f-a7a2-a5358a427e67)
+<br/><br/>
+
+![Gold   Bitcoin](https://github.com/bravechristian/Finance-Project/assets/113802347/018ea694-9d7e-427d-8b3a-59b327dd449e)
+
+
+<br/><br/>
 ### Recommendations
 - Monitoring market trends and developments in cryptocurrencies and commodities markets.
 - Consider incorporating both asset classes(Commodities & Crypto-currencies) into investment portfolios for diversification and risk management.
