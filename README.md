@@ -107,12 +107,9 @@ FROM gold_btc
 GROUP BY YEAR(date) ORDER BY 1;
 
 
-
-SELECT
-    Adj_Close_BTC,
-    STDDEV(Adj_Close_BTC)) AS btc_standard_deviation
-FROM
-     crypto c
+--Calculate the standard deviation of bitcoin
+SELECT STDEV(Adj_Close_BTC) AS standard_deviation
+FROM dbo.cryptoTradeCSV;
 
 
 
